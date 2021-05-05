@@ -13,29 +13,28 @@
 	{ "id": 11, "title": "Post 3", "content":"test content 11", "user":"samsung" },
 	{ "id": 12, "title": "Post 3", "content":"test content 12", "user":"nokia" },
 	{ "id": 13, "title": "Post 3", "content":"test content 13", "user":"apples" }
-  ], 
+  ],
   "comments": [
     { "id": 1, "body": "this is comment for test 1", "postId": 1 },
     { "id": 2, "body": "this is comment for test 2.1", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 2.2", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 2.3", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 2.4", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 2.5", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 2.6", "postId": 2 },
-	{ "id": 2, "body": "this is comment for test 3", "postId": 3 },
-	{ "id": 3, "body": "this is comment for test 4", "postId": 4 },
-	{ "id": 4, "body": "this is comment for test 5 ", "postId": 5 },
-	{ "id": 5, "body": "this is comment for test 6 ", "postId": 6 },
-	{ "id": 6, "body": "this is comment for test 7", "postId": 7 },
-	{ "id": 7, "body": "this is comment for test 8", "postId": 8 },
-	{ "id": 8, "body": "this is comment for test 9", "postId": 9 },
-	{ "id": 9, "body": "this is comment for test 10", "postId": 10 },
-	{ "id": 10, "body": "this is comment for test 11", "postId": 11 },
-	{ "id": 11, "body": "this is comment for test 12", "postId": 12 },
-	{ "id": 12, "body": "this is comment for test 13", "postId": 13 },
-	{ "id": 13, "body": "this is comment for test 13", "postId": 13 }
+	{ "id": 3, "body": "this is comment for test 2.2", "postId": 2 },
+	{ "id": 4, "body": "this is comment for test 2.3", "postId": 2 },
+	{ "id": 5, "body": "this is comment for test 2.4", "postId": 2 },
+	{ "id": 6, "body": "this is comment for test 2.5", "postId": 2 },
+	{ "id": 7, "body": "this is comment for test 2.6", "postId": 2 },
+	{ "id": 8, "body": "this is comment for test 3", "postId": 3 },
+	{ "id": 9, "body": "this is comment for test 4", "postId": 4 },
+	{ "id": 10, "body": "this is comment for test 5 ", "postId": 5 },
+	{ "id": 11, "body": "this is comment for test 6 ", "postId": 6 },
+	{ "id": 12, "body": "this is comment for test 7", "postId": 7 },
+	{ "id": 13, "body": "this is comment for test 8", "postId": 8 },
+	{ "id": 14, "body": "this is comment for test 9", "postId": 9 },
+	{ "id": 15, "body": "this is comment for test 10", "postId": 10 },
+	{ "id": 16, "body": "this is comment for test 11", "postId": 11 },
+	{ "id": 16, "body": "this is comment for test 12", "postId": 12 },
+	{ "id": 17, "body": "this is comment for test 13", "postId": 13 }
   ],
   "profile": {
     "name": "typicode"
-  }  
+  }
 }
