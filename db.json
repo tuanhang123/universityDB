@@ -13,7 +13,7 @@
 	{ "id": 11, "title": "Post 3", "content":"test content 11", "user":"samsung" },
 	{ "id": 12, "title": "Post 3", "content":"test content 12", "user":"nokia" },
 	{ "id": 13, "title": "Post 3", "content":"test content 13", "user":"apples" }
-  ],
+  ], 
   "comments": [
     { "id": 1, "body": "this is comment for test 1", "postId": 1 },
     { "id": 2, "body": "this is comment for test 2.1", "postId": 2 },
@@ -36,5 +36,5 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  }  
 }
