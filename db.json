@@ -5,7 +5,14 @@
     { "id": 3, "title": "Post 3", "content":"test content 3", "user":"ionic" },
 	{ "id": 4, "title": "Post 4", "content":"test content 4", "user":"angular" },
 	{ "id": 5, "title": "Post 5", "content":"test content 5", "user":"yogio" },
-	{ "id": 6, "title": "Post 6", "content":"test content 6", "user":"simini" }
+	{ "id": 6, "title": "Post 6", "content":"test content 6", "user":"simini" },
+	{ "id": 7, "title": "Post 7", "content":"test content 7", "user":"zikiki" },
+	{ "id": 8, "title": "Post 8", "content":"test content 8", "user":"tata" },
+	{ "id": 9, "title": "Post 9", "content":"test content 9", "user":"honda" },
+	{ "id": 10, "title": "Post 10", "content":"test content 10", "user":"suzuki" },
+	{ "id": 11, "title": "Post 11", "content":"test content 11", "user":"samsung" },
+	{ "id": 12, "title": "Post 12", "content":"test content 12", "user":"nokia" },
+	{ "id": 13, "title": "Post 13", "content":"test content 13", "user":"apples" } 
   ],
   "comments": [
     { "id": 1, "body": "this is comment for test 1", "postId": 1 },
@@ -31,4 +38,3 @@
     "name": "typicode"
   }
 }
- 
